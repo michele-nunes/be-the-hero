@@ -1,2 +1,6 @@
 [0326/125608.108:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
 [0326/125608.772:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
+[0327/163143.387:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
+[0327/163144.112:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
+[0327/233026.714:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
+[0327/233027.903:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Acesso negado. (0x5)
